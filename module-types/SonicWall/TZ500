@@ -1,0 +1,174 @@
+manufacturer: SonicWall
+model: TZ500
+slug: tz500
+part_number: ''
+u_height: 1.0
+is_full_depth: true
+subdevice_role: ''
+airflow: ''
+comments: ''
+console-ports:
+- name: Console
+  type: rj-45
+  label: ''
+  description: ''
+interfaces:
+- name: X0
+  type: 1000base-t
+  mgmt_only: false
+  label: LAN Default
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X1
+  type: 1000base-t
+  mgmt_only: false
+  label: WAN Default
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X2
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X3
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X4
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X5
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X6
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X7
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+---
+manufacturer: SonicWall
+model: TZ670
+slug: tz670
+part_number: ''
+u_height: 1.0
+is_full_depth: true
+subdevice_role: ''
+airflow: ''
+comments: ''
+console-ports:
+- name: Micro-USB Console Port
+  type: usb-mini-a
+  label: Micro-USB  Console Port
+  description: Micro-USB  Console Port
+- name: RJ45 Console Port
+  type: rj-45
+  label: RJ45  Console  Port
+  description: RJ45  Console  Port
+power-ports:
+- name: PSU1
+  type: iec-60320-c16
+  maximum_draw: null
+  allocated_draw: null
+  label: Primary Power Input
+  description: Primary Power Input
+- name: PSU2
+  type: iec-60320-c16
+  maximum_draw: null
+  allocated_draw: null
+  label: Redundant  Power Input
+  description: Redundant  Power Input
+interfaces:
+- name: X0
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X1
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X2
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X3
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X4
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X5
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X6
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X7
+  type: 1000base-t
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X8
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
+- name: X9
+  type: 10gbase-x-sfpp
+  mgmt_only: false
+  label: ''
+  description: ''
+  poe_mode: ''
+  poe_type: ''
